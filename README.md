@@ -1,5 +1,8 @@
 # Schedule job in AWS lambda
-Example to run schedule job to fetch json data and save to aws S3
+Example serverless config for schedule job to fetch json data from remote url and save to S3 on AWS Lambda.
+
+## Install
+Make sure you have installed [serverless](https://serverless.com).
 
 ## Deploy
 ```
